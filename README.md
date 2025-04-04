@@ -1,4 +1,4 @@
-#👤 Founder & CEO @TrainListo.<br/>
+##👤 Founder & CEO @TrainListo.<br/>
 <br/>
 🎯 Ship products. Not portfolio pieces.<br/>
 🏋️‍♂️ Building TrainListo - a training app that's smarter than you. No BS.<br/>
